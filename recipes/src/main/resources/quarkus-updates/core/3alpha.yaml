@@ -7,6 +7,7 @@ tags:
   - activation
   - javax
   - jakarta
+
 recipeList:
   #  - org.openrewrite.maven.AddDependency:
   #      groupId: jakarta.activation
